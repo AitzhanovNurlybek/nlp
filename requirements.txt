@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+pymorphy3
+natasha
+razdel
